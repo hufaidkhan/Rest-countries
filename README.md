@@ -4,22 +4,16 @@
 
 <div align="center">
   <h3>
-    <a href="https://catherineisonline.github.io/rest-countries/" color="white">
-      Live
-    </a>
+ 
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-SySqXmn49">
-      Solution
-    </a>
+   
    <span> | </span>
     <a href="https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca">
       Challenge
     </a>
   </h3>
 </div>
-<div align="center">
-   Solution for a challenge from  <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
-</div>
+
 <br>
 <br>
 <br>
@@ -68,4 +62,4 @@ I also finally started to understand how to use states depending whether it's a 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-SySqXmn49">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+
